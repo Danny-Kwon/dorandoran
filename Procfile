@@ -1,1 +1,1 @@
-web: gunicorn ./dorandoran/app:app
+web: gunicorn app:app
